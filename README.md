@@ -14,23 +14,24 @@
 
  # General Info
 
+ 
+
 
  # Specifics
 
 
  # Deployment of application
 
-   To run a project, please follow the link 
+ 
 
-   []()
-
+   [Deployment](https://hakeemshope.herokuapp.com/)
 
 
  # Application Code
 
-   To view application code, please follow the link 
+  
 
-   []()
+   [GitHub](https://github.com/hakeem235/Hakeems_Shops)
 
 
  # Screenshots
